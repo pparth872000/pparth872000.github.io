@@ -168,7 +168,7 @@ header .navbar ul li a.active::before
 .home
 {
 	min-height: 100vh;
-	background-image: url("aa.jfif");
+	background-image: url("b.jfif");
 	background-size:cover;
 	background-position: center;
 	padding: 15px;
