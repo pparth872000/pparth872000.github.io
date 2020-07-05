@@ -9,7 +9,7 @@ html
 body
 {
 	margin: 0;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Poppins', sans-serif ;
 }
 *
 {
@@ -38,7 +38,7 @@ body
 	font-size: 35px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #000000;
+	color: blue;
 	margin: 0 0 10px;
 	position: relative;
 }
@@ -53,7 +53,7 @@ body
 	right: 43%;
 	position: absolute;
 	height: 2px;
-	background-color: lawngreen;
+	background-color: blue;
 	bottom: 0px;
 }
 .text-center
@@ -104,7 +104,7 @@ header .brand-name a
     text-decoration: none;
     font-size: 30px;
     font-weight: 600;
-    background:-webkit-linear-gradient(120deg, limegreen,orange,white);
+    background:-webkit-linear-gradient(120deg, limegreen,blue,white);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color:transparent;
     text-transform: uppercase;
@@ -144,7 +144,7 @@ header .navbar ul li a::before
 {
 	content:'';
 	height: 3px;
-	background-color:lawngreen;
+	background-color: blue;
 	width: 0%;
 	position: absolute;
 	right: 0px;
@@ -203,7 +203,7 @@ header .navbar ul li a.active::before
 }
 .home .home-content .block h1
 {
-	background:-webkit-linear-gradient(120deg, purple , orange , teal);
+	background:-webkit-linear-gradient(120deg, purple , blue , teal);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color:transparent;
 	font-size: 70px;
@@ -292,7 +292,7 @@ header .navbar ul li a.active::before
 }
 .about-me .section-title p.small:hover
 {
-	color: brown;
+	color: purple;
 }
 .about-me .about-content .img
 {
@@ -379,7 +379,7 @@ header .navbar ul li a.active::before
 }
 .about-me .about-content .text .info .list p:hover
 {
-	color: fuchsia;
+	color: brown;
 }
 .about-me .about-content .text .social-links
 {
@@ -553,7 +553,7 @@ header .navbar ul li a.active::before
 {
 	font-size: 16px;
 	font-weight: 500;
-	color: #000000;
+	color: blue;
 	margin:0 0 8px;
 }
 .skills .skills-content .skill-box .skill-bar
