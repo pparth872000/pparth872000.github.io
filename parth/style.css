@@ -1175,7 +1175,7 @@ footer .social a:hover
 		max-width: 100%;
 	}
 }
-.about-me .about-content .text .info .list p
+.about-me .about-content .text .info .list 
 {
 	flex:0 0 100%;
 }
