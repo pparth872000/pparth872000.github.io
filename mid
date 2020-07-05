@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Admin Login</title>
+</head>
+<body><h1>Admin Login</h1>
+<form>
+		<table>
+			<tr>
+				<td>
+					User Name:
+				</td>
+				<td>
+					<input type="text" placeholder="Name" name="" required="">
+				</td>
+			</tr>
+        
+			<tr>
+				<td>
+					Password:
+				</td>
+				<td>
+					<input type="Password" placeholder="Password" name=""required="">
+				</td>
+			</tr>
+           
+				<tr>
+				
+				<td>
+					<input type="Submit" value="Login" name="">
+				</td>
+			</tr>
+</body>
+</html>
